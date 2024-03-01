@@ -1,5 +1,9 @@
-
+header {
+	/* position: sticky;
+	top: 0; */
+}
 .header-content {
+	background-color: #fff;
 	min-height: 100px;
 	display: flex;
 	justify-content: space-between;
